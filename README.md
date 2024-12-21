@@ -25,6 +25,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 
 ## Estructura de carpetas y archivos
 
+```
 ejercicio1-modulo4-adalid-corfo/
 ├── public/
 │   ├── assets/
@@ -61,6 +62,7 @@ ejercicio1-modulo4-adalid-corfo/
 │            └── main.scss
 ├── package.json
 └── README.md
+```
 
 
 ## Modularización de Estilos
